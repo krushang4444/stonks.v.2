@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+void main()
+{
+    float a,b;
+    printf("Enter the numbers pesent ");
+    scanf("%f %f",&a,&b);
+    printf("the answer is 8; just  messing with ya.... its %f \n",a+b);
+}
+    
+    
